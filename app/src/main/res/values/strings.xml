@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Waves of food</string>
+    <string name="enjoy_restaurant_quality_meals_n_at_home">Enjoy Restaurant Quality Meals \n at Home</string>
+    <string name="design_by_sudheer">Design By Sudheer</string>
+    <string name="next">NEXT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_clint_Id">832327133091-csmn2l1ikftr7apc3d53n629h0qagujd.apps.googleusercontent.com</string>
+</resources>
